@@ -43,3 +43,12 @@ Pesquisa linear e binária
 Ordenação (Bubble, Selection, Insertion, Merge)
 Complexidade Big-O
 Mutabilidade e referências em Python
+
+## Testes
+
+O repositório inclui testes unitários automatizados com `pytest`.
+
+### Instalação
+
+```bash
+pip install -r requirements.txt
